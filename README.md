@@ -5,6 +5,8 @@ This project aims to create a Payroll Management System using MySQL database. Th
 To start the project, we need to determine the entities and attributes of the database by creating an ERD diagram (Entity Relationship Diagram). The ERD provides a visual representation of the relationships between entities. Here is the ERD diagram designed for our Payroll Management System:
 ![image1!](ERDs/ERD-Payroll_management_system1.png)
 
+![image1!](ERDs/ERD-Payroll_management_system2.png)
+
 ## Database Creation
 
 The next step is to build the database using SQL queries to create tables and insert data into them. Run the SQL script provided [here](payroll_database.sql) in MySQL Workbench. Create additional fields if needed for your tables and insert data according to data provided [here](dataset/2.4_Project_Employee_Payroll_2023.csv).
@@ -16,6 +18,7 @@ After creating the necessary tables, it is essential to establish relationships 
 ## Visualizing the ERD on MySQL Workbench
 
 To visualize the ERD diagram of your database, in MySQL use the reverse engineering method in the databse section of MySQL Workbench.
+
 ![ERD!](ERDs/MySQL_ERD.png)
 
 ## Data Analysis

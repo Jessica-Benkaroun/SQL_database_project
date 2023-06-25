@@ -18,7 +18,7 @@ After creating the necessary tables, it is essential to establish relationships 
 ## Visualizing the ERD on MySQL Workbench
 
 To visualize the ERD diagram of your database, in MySQL use the reverse engineering method in the databse section of MySQL Workbench.
-
+</br>
 ![ERD!](ERDs/MySQL_ERD.png)
 
 ## Data Analysis

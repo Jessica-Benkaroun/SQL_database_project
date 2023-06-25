@@ -9,7 +9,7 @@ To start the project, we need to determine the entities and attributes of the da
 
 ## Database Creation
 
-The next step is to build the database using SQL queries to create tables and insert data into them. Run the SQL script provided [here](Database_projects/payroll_database.sql) in MySQL Workbench. Create additional fields if needed for your tables and insert data according to data provided [here](dataset/2.4_Project_Employee_Payroll_2023.csv).
+The next step is to build the database using SQL queries to create tables and insert data into them. Run the SQL script provided [here](payroll_database.sql) in MySQL Workbench. Create additional fields if needed for your tables and insert data according to data provided [here](dataset/2.4_Project_Employee_Payroll_2023.csv).
 
 ## Table Relationships
 

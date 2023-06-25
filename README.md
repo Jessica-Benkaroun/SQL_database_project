@@ -1,5 +1,5 @@
 # Payroll Management System creation with MySQL from Oracle
-This project aims to create a Payroll Management System using MySQL database. The system will be designed to handle the employee payroll data obtained from the City of Los Angeles in the US. The dataset used for this project can be found at [LA city controller](https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu).
+This project aims to create a Payroll Management System using MySQL database. The system will be designed to handle the employee payroll data obtained from the City of Los Angeles in the US. The dataset used for this project can be found at [LA City Controller](https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu).
 
 ## Entity-Relationship Diagram (ERD)
 To start the project, we need to determine the entities and attributes of the database by creating an ERD diagram (Entity Relationship Diagram). The ERD provides a visual representation of the relationships between entities. Here is the ERD diagram designed for our Payroll Management System:
@@ -9,7 +9,7 @@ To start the project, we need to determine the entities and attributes of the da
 
 ## Database Creation
 
-The next step is to build the database using SQL queries to create tables and insert data into them. Run the SQL script provided [here](payroll_database.sql) in MySQL Workbench. Create additional fields if needed for your tables and insert data according to data provided [here](dataset/2.4_Project_Employee_Payroll_2023.csv).
+The next step is to build the database using SQL queries to create tables and insert data into them. Run the SQL script provided [here](Database_projects) in MySQL Workbench. Create additional fields if needed for your tables and insert data according to data provided [here](dataset/2.4_Project_Employee_Payroll_2023.csv).
 
 ## Table Relationships
 

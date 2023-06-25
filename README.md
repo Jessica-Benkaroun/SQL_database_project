@@ -21,7 +21,7 @@ To visualize the ERD diagram of your database, in MySQL use the reverse engineer
 
 ![ERD!](ERDs/MySQL_ERD.png)
 
-A one to one (mandatory) relationhip was addded for each entity. Based on the ERD designed, an employee belongs to one department, has one payroll, and one job among the database structure we choose. Other type of relationhisp could be added and depend on the database needs. 
+A one to one (mandatory) relationship was addded for each entity. Based on the ERD designed, an employee belongs to one department, has one payroll, and one job among the database structure we choose. Other type of relationhisp could be added and depend on the database needs. 
 
 ## Data Analysis
 

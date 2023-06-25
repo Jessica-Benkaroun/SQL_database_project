@@ -3,4 +3,4 @@ This project aims to create a Payroll Management System using MySQL database. Th
 
 ## Entity-Relationship Diagram (ERD)
 To start the project, we need to determine the entities and attributes of the database by creating an ERD diagram (Entity Relationship Diagram). The ERD provides a visual representation of the relationships between entities. Here is the ERD diagram designed for our Payroll Management System:
-![image1!](ERD-Payroll_management_system1.png)
+![image1!](ERDs/ERD-Payroll_management_system1.png)
